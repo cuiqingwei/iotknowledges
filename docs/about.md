@@ -1,9 +1,18 @@
 
 ## 技术细节
 
-1. 网站内容采用markdown，通过 **MkDocs** 生成HTML，是一个纯静态的网站；
-2. 本站完全开源，放在github.com上，通过 **Travis CI** 持续集成自动构建部署到GitHub上，无需服务器；
-3. 评论框采用的是 **多说**。
+### GitHub Pages
+[GitHub Pages](https://pages.github.com/)免费的静态站点，三个特点：免费托管、自带主题、支持自制页面和Jekyll。
+
+### MkDocs
+[MkDocs](http://markdown-docs-zh.readthedocs.io/zh_CN/latest/)是一个用于创建项目文档的 快速, 简单 , 完美华丽 的静态站点生成器. 文档源码使用 Markdown 来撰写, 用一个 YAML 文件作为配置文档.
+
+### Travis CI
+[Travis CI](https://travis-ci.org/)，是一个专门为开源项目打造的持续集成环境。
+如果你有一个放在github上的开源项目，Travis CI简直就是一个完美的CI选择。
+
+### 多说评论框
+[多说](http://duoshuo.com/)评论框是一款WordPress社会化评论插件,可以用新浪微博、腾讯QQ、人人、豆瓣多帐号登录,帮助网站进行社会化媒体优化。
 
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="about" data-title="关于" data-url="https://iotknowledges.github.io/about/"></div>

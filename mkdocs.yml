@@ -23,18 +23,22 @@ pages:
     - 'IoE': 'base/IoE.md'
     - 'M2M': 'base/M2M.md'
     - 'LPWAN': 'base/LPWAN.md'
+    - 'LTE': 'base/LTE.md'
 - 协议&标准:
-    - 'z-Wave': 'stands&protocals/zWave.md'
-    - 'IEEE802.15.4': 'stands&protocals/802.15.4.md'
-    - 'ZigBee': 'stands&protocals/ZigBee.md'
-    - '6LoWPAN': 'stands&protocals/6LoWPAN.md'
-    - 'LoraWAN': 'stands&protocals/Lora.md'
-    - 'NB-IoT': 'stands&protocals/NB-IoT.md'
+    - 'z-Wave': 'stands&protocols/zWave.md'
+    - 'EnOcean': 'stands&protocols/EnOcean.md'
+    - 'IEEE802.15.4': 'stands&protocols/802.15.4.md'
+    - 'ZigBee': 'stands&protocols/ZigBee.md'
+    - '6LoWPAN': 'stands&protocols/6LoWPAN.md'
+    - 'LoraWAN': 'stands&protocols/Lora.md'
+    - 'NB-IoT': 'stands&protocols/NB-IoT.md'
+    - 'SigFox': 'stands&protocols/sigfox.md'
 - 操作系统:
-    - 'TinyOS': 'os/tinyos.md'
+    - 'TinyOS': 'os/tinyos.md's
     - 'Contiki': 'os/contiki.md'
     - 'embOS': 'os/mbed.md'
     - 'RIOT': 'os/RIOT.md'
+    - 'LiteOS': 'os/LiteOS.md'
 - 关于: 'about.md'
 
 # 主题
