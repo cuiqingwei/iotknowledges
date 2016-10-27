@@ -3,7 +3,6 @@ python:
   - 3.5
 install:
   - pip install mkdocs
-  - python setup.py install
 script:
   - mkdocs build --clean
 after_success: |
