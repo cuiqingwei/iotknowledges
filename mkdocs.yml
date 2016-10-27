@@ -32,7 +32,7 @@ pages:
     - '6LoWPAN': 'stands&protocols/6LoWPAN.md'
     - 'LoraWAN': 'stands&protocols/Lora.md'
     - 'NB-IoT': 'stands&protocols/NB-IoT.md'
-    - 'SigFox': 'stands&protocols/sigfox.md'
+    - 'Sigfox': 'stands&protocols/Sigfox.md'
 - 操作系统:
     - 'TinyOS': 'os/tinyos.md'
     - 'Contiki': 'os/contiki.md'
