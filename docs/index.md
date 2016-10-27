@@ -15,6 +15,4 @@ IoT（英语：Internet of Things，缩写IoT）中文即物联网是互联网�
 
 ![](../images/IBM.png)
 
-### 物联网产业趋势
-
-[http://v.youku.com/v_show/id_XMTc2MDUwMTc2OA==.html#paction](http://v.youku.com/v_show/id_XMTc2MDUwMTc2OA==.html#paction)
+> [物联网产业趋势](http://v.youku.com/v_show/id_XMTc2MDUwMTc2OA==.html#paction)
