@@ -34,7 +34,7 @@ pages:
     - 'NB-IoT': 'stands&protocols/NB-IoT.md'
     - 'SigFox': 'stands&protocols/sigfox.md'
 - 操作系统:
-    - 'TinyOS': 'os/tinyos.md's
+    - 'TinyOS': 'os/tinyos.md'
     - 'Contiki': 'os/contiki.md'
     - 'embOS': 'os/mbed.md'
     - 'RIOT': 'os/RIOT.md'
