@@ -1,0 +1,50 @@
+# http://markdown-docs-zh.readthedocs.io/zh_CN/latest/
+# 项目信息
+site_name: IoT
+# 设置站点的 URL
+site_url: 'http://iot.io/'
+# 作者
+site_author: cuiqigwei
+# 站点描述
+site_description: iot-knowledges
+# 收藏图标
+site_favicon: favicon.ico
+
+# 链接
+repo_url: https://github.com/iotknowledges/iotknowledges.github.io
+repo_name: 'GitHub'
+
+# 目录结构
+pages:
+- 首页: 'index.md'
+- 概念:
+    - 'IoT': 'base/IoT.md'
+    - 'WoT': 'base/WoT.md'
+    - 'IoE': 'base/IoE.md'
+    - 'M2M': 'base/M2M.md'
+    - 'LPWAN': 'base/LPWAN.md'
+- 协议&标准:
+    - 'z-Wave': 'stands&protocals/zWave.md'
+    - 'IEEE802.15.4': 'stands&protocals/802.15.4.md'
+    - 'ZigBee': 'stands&protocals/ZigBee.md'
+    - '6LoWPAN': 'stands&protocals/6LoWPAN.md'
+    - 'LoraWAN': 'stands&protocals/Lora.md'
+    - 'NB-IoT': 'stands&protocals/NB-IoT.md'
+- 操作系统:
+    - 'TinyOS': 'os/tinyos.md'
+    - 'Contiki': 'os/contiki.md'
+    - 'embOS': 'os/mbed.md'
+    - 'RIOT': 'os/RIOT.md'
+- 关于: 'about.md'
+
+# 主题
+#theme: flatly
+theme: journal
+#theme: cinder
+#theme: bootstrap
+
+# 站点分析
+google_analytics: ['UA-36723568-3', 'mkdocs.org']
+
+# 设置站点版权信息
+copyright: <img src="/favicon.ico" alt="iZheteng" /></a><a rel="nofollow" href="https://cuiqingwei.github.io/"> cuiqingwei.github.io </a>
