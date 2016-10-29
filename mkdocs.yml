@@ -30,6 +30,7 @@ pages:
     - 'IEEE802.15.4': 'stands&protocols/802.15.4.md'
     - 'ZigBee': 'stands&protocols/ZigBee.md'
     - '6LoWPAN': 'stands&protocols/6LoWPAN.md'
+    - 'RPL': 'stands&protocols/RPL.md'
     - 'LoraWAN': 'stands&protocols/Lora.md'
     - 'NB-IoT': 'stands&protocols/NB-IoT.md'
     - 'Sigfox': 'stands&protocols/Sigfox.md'
@@ -48,7 +49,7 @@ theme: journal
 #theme: bootstrap
 
 # 站点分析
-google_analytics: ['UA-36723568-3', 'mkdocs.org']
+google_analytics: ['UA-42607542-3', 'iotknowledges.github.io']
 
 # 设置站点版权信息
 copyright: <img src="/favicon.ico" alt="iZheteng" /></a><a rel="nofollow" href="https://cuiqingwei.github.io/"> cuiqingwei.github.io </a>
