@@ -35,7 +35,7 @@ pages:
     - 'LoRa': 'stands&protocols/Lora.md'
     - 'NB-IoT': 'stands&protocols/NB-IoT.md'
     - 'Sigfox': 'stands&protocols/Sigfox.md'
-    - 'Halow': 'stands&protocols/Halow.md'
+    - 'Halow': 'stands&protocols/HaLow.md'
     - 'WiGig': 'stands&protocols/WiGig.md'
 - 操作系统:
     - 'TinyOS': 'os/TinyOS.md'
