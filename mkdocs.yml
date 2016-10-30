@@ -37,7 +37,7 @@ pages:
 - 操作系统:
     - 'TinyOS': 'os/tinyos.md'
     - 'Contiki': 'os/contiki.md'
-    - 'embOS': 'os/mbed.md'
+    - 'mbedOS': 'os/mbedOS.md'
     - 'RIOT': 'os/RIOT.md'
     - 'LiteOS': 'os/LiteOS.md'
 - 关于: 'about.md'

@@ -1,4 +1,4 @@
-# RPL协议介绍
+# RPL
 
 **RPL** 是IPv6 Routing Protocol for Low-Power and Lossy Networks的简称。
 

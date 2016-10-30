@@ -1,4 +1,5 @@
-**LTE**
+# LTE
+
 - 中文：通用移动通信技术的长期演进
 - 英文：Long Term Evolution
 

@@ -9,10 +9,12 @@ IoT（英语：Internet of Things，缩写IoT）中文即物联网是互联网�
 ## 未来是物联网的世界
 *您能够:*
 
-- 轻松理解数 EB 的设备数据
+- 轻松理解数 [EB](http://www.zybang.com/question/bc3684b27463015a696022e729037bad.html) 的设备数据
 - 轻松集成现有系统
 - 快速构建和调整业务需求
 
 ![](../images/IBM.png)
 
-> [物联网产业趋势](http://v.youku.com/v_show/id_XMTc2MDUwMTc2OA==.html#paction)
+> 物联网产业趋势 -> *[优酷视频链接](http://v.youku.com/v_show/id_XMTc2MDUwMTc2OA==.html#paction)*
+
+![](../images/iot.png)
