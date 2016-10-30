@@ -38,8 +38,8 @@ pages:
     - 'Halow': 'stands&protocols/HaLow.md'
     - 'WiGig': 'stands&protocols/WiGig.md'
 - 操作系统:
-    - 'TinyOS': 'os/TinyOS.md'
-    - 'Contiki': 'os/Contiki.md'
+    - 'TinyOS': 'os/tinyos.md'
+    - 'Contiki': 'os/contiki.md'
     - 'mbedOS': 'os/mbedOS.md'
     - 'RIOT': 'os/RIOT.md'
     - 'LiteOS': 'os/LiteOS.md'
