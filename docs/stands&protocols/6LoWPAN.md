@@ -44,7 +44,7 @@ IETF 6LoWPAN取得的突破是得到一种 **非常紧凑、高效的** IP实现
 
 ## 参考资料
 
-1. [6Lowpan标准](http://baike.baidu.com/redirect/44efSwPlreJQzDQXIPnbqzjXebWOMK-ssyDdeELLUBddAQXptlfbPzLprKzoy3tw3ud6Cw3Pm0hWLfimhkAhsv02Tg)  ．IETF[引用日期2012-09-3]
-2. [6Lowpan开源操作系统Contiki](http://baike.baidu.com/redirect/310bl_c7FMes9eaJVG4KKSbwVry9NTpOAQ7xHgeCSA9_Sd2XS_P6kBaGVWa4qgGDOAE)  ．Contiki官网[引用日期2012-09-3]
+1. [6Lowpan标准](http://baike.baidu.com/redirect/44efSwPlreJQzDQXIPnbqzjXebWOMK-ssyDdeELLUBddAQXptlfbPzLprKzoy3tw3ud6Cw3Pm0hWLfimhkAhsv02Tg)  *<font color="#aaa">．IETF[引用日期2012-09-3]</font>*
+2. [6Lowpan开源操作系统Contiki](http://baike.baidu.com/redirect/310bl_c7FMes9eaJVG4KKSbwVry9NTpOAQ7xHgeCSA9_Sd2XS_P6kBaGVWa4qgGDOAE)  *<font color="#aaa">．Contiki官网[引用日期2012-09-3]</font>*
 
 >[参考链接](http://baike.baidu.com/link?url=RmTA3Aykv1aEz4LI38W-SPS08p50Dy6se8MsEc4deF4_eSKajq-3WZ7PFBFq9HQLUsIdwFl6-IJnOgEbTRnRfa)
