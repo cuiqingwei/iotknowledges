@@ -2,9 +2,9 @@
 # 项目信息
 site_name: IoT
 # 设置站点的 URL
-site_url: 'http://iot.io/'
+site_url: 'https://iotknowledges.github.io/'
 # 作者
-site_author: cuiqigwei
+site_author: cuiqingwei
 # 站点描述
 site_description: iot-knowledges
 # 收藏图标
@@ -24,6 +24,7 @@ pages:
     - 'M2M': 'base/M2M.md'
     - 'LPWAN': 'base/LPWAN.md'
     - 'LTE': 'base/LTE.md'
+    - 'onePIC': 'base/iotpic.md'
 - 协议&标准:
     - 'z-Wave': 'stands&protocols/zWave.md'
     - 'EnOcean': 'stands&protocols/EnOcean.md'
@@ -31,15 +32,18 @@ pages:
     - 'ZigBee': 'stands&protocols/ZigBee.md'
     - '6LoWPAN': 'stands&protocols/6LoWPAN.md'
     - 'RPL': 'stands&protocols/RPL.md'
-    - 'LoraWAN': 'stands&protocols/Lora.md'
+    - 'LoRa': 'stands&protocols/Lora.md'
     - 'NB-IoT': 'stands&protocols/NB-IoT.md'
     - 'Sigfox': 'stands&protocols/Sigfox.md'
+    - 'Halow': 'stands&protocols/Halow.md'
+    - 'WiGig': 'stands&protocols/WiGig.md'
 - 操作系统:
-    - 'TinyOS': 'os/tinyos.md'
-    - 'Contiki': 'os/contiki.md'
+    - 'TinyOS': 'os/TinyOS.md'
+    - 'Contiki': 'os/Contiki.md'
     - 'mbedOS': 'os/mbedOS.md'
     - 'RIOT': 'os/RIOT.md'
     - 'LiteOS': 'os/LiteOS.md'
+    - 'MiCO': 'os/MICO.md'
 - 关于: 'about.md'
 
 # 主题

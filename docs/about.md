@@ -1,5 +1,5 @@
 
-## 技术细节
+#### *技术细节*
 
 ### GitHub Pages
 [GitHub Pages](https://pages.github.com/)免费的静态站点，三个特点：免费托管、自带主题、支持自制页面和Jekyll。
