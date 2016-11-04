@@ -45,7 +45,19 @@ pages:
     - 'LiteOS': 'os/LiteOS.md'
     - 'MiCO': 'os/MICO.md'
 - 关于: 'about.md'
-
+- useful:
+    - Pin-Out:
+      - 'MCU': 'useful/mcu.md'
+      - 'Duino': 'useful/duino.md'
+      - 'ESP8266': 'useful/esp8266.md'
+      - 'Raspberry-Pi': 'useful/raspberry.md'
+      - 'BeagleBone': 'useful/beaglebone.md'
+      - 'MSP430Pad': 'useful/msp430pad.md'
+      - 'Others': 'useful/others.md'
+    - Basic:
+      - 'Resistor': 'useful/resistor.md'
+      - 'ASCII': 'useful/ascii.md'
+      
 # 主题
 #theme: flatly
 theme: journal
