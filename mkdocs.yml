@@ -57,12 +57,13 @@ pages:
     - Basic:
       - 'Resistor': 'useful/resistor.md'
       - 'ASCII': 'useful/ascii.md'
-      
+
 # 主题
 #theme: flatly
 theme: journal
-#theme: cinder
-#theme: bootstrap
+# theme: bootstrap
+# theme: readthedocs
+# theme: cinder
 
 # 站点分析
 google_analytics: ['UA-42607542-3', 'iotknowledges.github.io']
