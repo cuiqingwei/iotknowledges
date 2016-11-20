@@ -60,9 +60,10 @@ pages:
 #       - 'ASCII': 'useful/ascii.md'
 
 # 主题
-#theme: flatly
+# theme: flatly
 theme: journal
 # theme: bootstrap
+# theme: Bootswatch
 # theme: readthedocs
 # theme: cinder
 
