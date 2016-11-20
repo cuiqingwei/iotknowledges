@@ -24,6 +24,7 @@ pages:
     - 'M2M': 'base/M2M.md'
     - 'LPWAN': 'base/LPWAN.md'
     - 'LTE': 'base/LTE.md'
+    - 'IETF': 'base/IETF.md'
     - 'onePIC': 'base/iotpic.md'
 - 协议&标准:
     - 'z-Wave': 'stands&protocols/zWave.md'
