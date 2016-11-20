@@ -36,5 +36,5 @@ Mike Corrigan (1986)
 
 ## 参见
 
-[标准化](http://baike.baidu.com/view/8087.htm)
-[RFC](http://baike.baidu.com/view/6108.htm)
+- [标准化](http://baike.baidu.com/view/8087.htm)
+- [RFC](http://baike.baidu.com/view/6108.htm)
