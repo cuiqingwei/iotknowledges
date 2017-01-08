@@ -4,4 +4,4 @@
 
 ![](http://riot-os.org/images/logo-large.png)
 
-> The friendly Operating System for the Internet of Things. [Learn more.](http://riot-os.org/])
+> The friendly Operating System for the Internet of Things. [Learn more.](http://riot-os.org/)
